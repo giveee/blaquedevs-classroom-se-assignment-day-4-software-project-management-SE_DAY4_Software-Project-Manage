@@ -56,12 +56,45 @@ product design projects
 personal milestone project
 -personal milestone project include birthday event,weeding celebration and graduation party
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+quality assurance include
+-quality management approach
+-multi testing strategy
+-formal technical review
+-effective software technology
 
+
+is important because the final product meet quality standards and user expectations it also helps to minimize costs , minimize resorces and effort
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+-managing and defining project scope enables your team to deliver projects efficiently accordance with the project requirements ,goals are archieved and deadlines are met
+- work breakdown structure is used as a planning tool to plan , organise and define the product scope. Is a diagram that shows connections between objectives , measurable milestone and deliverables
+- work breakdown structure is useful as it break the project into smaller component that can be easy to manage and control the scope creep
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+benefits of developing a detailed project schedule
+-establishes project timeline
+-monitors team performance
+-ensures consistency 
+-promotes best practices
+-simplifies the project management process
+gantt assist by planning work around resources and how to allocate resources efficiently.
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+core issues that software aims to address 
+-unclear requirements
+-lack of communication
+-information confidentiality
+-complications in the deliverance of the final product
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+-helps in defining the scope,goals,constrains and assuption of the problem as well as identify stakeholders,users and requirements if the system. identify and defining the problem makes everyone aware on what aspect of software field to put more focus in try to improve ,develop better ways to resolve in due time before it negatively affect the company's budget.
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+-today im going to represent to you my software methodologies which can assist your business archieve its full potential 
 ## 11. What are the main features or functionalities that make your software stand out?
+features that will make my mobile application to standout
+-offline functionality
+-social media interaction
+-feedback channel
+-regular update
+-personalize the experience
 ## 12. What data is available regarding the market size and growth potential for your software?
+-the software allows you to connect with the whole household and offers the latest version of a touchscreen with improve security as it requires a password and identity number before entering the device 
 ## 13. How can understanding market trends inform your software’s positioning and development?
+understanding market trends is vital in keeping upto date with the latest improvements and technology in essence it will allow me to add more features that customers will love to try on my device and work on features that customers are not satisfied with.
